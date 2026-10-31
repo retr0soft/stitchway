@@ -19,11 +19,12 @@ Stitchway is a calm, offline path puzzle for Android. Start at 1 and draw a sing
 - Undo, reset, hints, and save-and-resume for a half-finished puzzle
 - Light and dark themes, a colour-blind friendly palette, reduce-motion and haptics options
 - Screen reader support, with moves available as actions instead of dragging
-- Fully offline: no account, no tracking, no network access
+- No account needed, and puzzles work offline
+- Free with ads (a banner after each solve and a full-screen ad every fifth puzzle); a one-time purchase removes them
 
 ## Privacy
 
-Stitchway collects no data. See the [privacy policy](PRIVACY.md).
+The game keeps your progress on your device. Ads are served by Google AdMob, which asks for consent where required. See the [privacy policy](PRIVACY.md).
 
 ## Contact
 
