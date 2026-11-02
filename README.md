@@ -18,6 +18,10 @@ Stitchway is a calm, offline path puzzle for Android. Start at 1 and draw a sing
 - Endless generated puzzles, each checked for a single solution
 - Undo, reset, hints, and save-and-resume for a half-finished puzzle
 - Light and dark themes, a colour-blind friendly palette, reduce-motion and haptics options
+- Seasonal and holiday fabrics (Spring, Summer, Autumn, Winter, Valentine's, Easter, Halloween, Christmas) with stitched motifs; earn the holiday ones early with a daily streak
+- Achievements, a "new best" badge, and share results as a grid of coloured squares
+- An optional daily reminder, off until you turn it on
+- Two-column layout on tablets and in landscape
 - Screen reader support, with moves available as actions instead of dragging
 - No account needed, and puzzles work offline
 - Free with ads (a banner after each solve and a full-screen ad every fifth puzzle); a one-time purchase removes them

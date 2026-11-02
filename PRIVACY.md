@@ -1,6 +1,6 @@
 # Stitchway privacy policy
 
-_Last updated: 31 October 2026_
+_Last updated: 2 November 2026_
 
 Stitchway is a puzzle game that works offline. The game itself collects no personal information. The free version shows ads served by Google AdMob, which do collect some data as described below.
 
@@ -9,7 +9,8 @@ The app stores the following locally, and only on your device:
 - your settings (theme, sound, haptics, reduce motion, colour-blind palette),
 - your solved puzzles, times and daily streak,
 - a puzzle you left half-finished, so you can continue it,
-- whether you have removed ads, and a count of puzzles since the last full-screen ad.
+- whether you have removed ads, and a count of puzzles since the last full-screen ad,
+- your fabric choice and, if you turn it on, your daily reminder setting.
 
 None of this is sent to us. Uninstalling the app deletes it. Android's own backup may copy app data to your Google account if device backup is on; that is controlled by your device settings.
 
@@ -22,6 +23,9 @@ We do not receive this data and we do not sell it.
 - **Consent:** where the law requires it (for example in the EEA and UK), the app asks for your consent through Google's consent form before any ad is requested. If you decline, no personalised ads are shown. You can change your choice any time in Settings → "Ad privacy options" (shown where it applies).
 - **Reset or delete your advertising ID** in Android settings → Privacy → Ads.
 - **Remove ads** with the optional one-time purchase in Settings. After that no ads are shown.
+
+## Daily reminder
+The optional daily reminder is a notification the app schedules on your own device. It is off until you turn it on, Android asks your permission first, and nothing is sent anywhere. You can switch it off in Settings or in Android's notification settings.
 
 ## Purchases
 The "Remove ads" purchase is handled entirely by Google Play. We never see your payment details. The app only learns from Google Play whether the purchase has been made, so it can switch ads off.
