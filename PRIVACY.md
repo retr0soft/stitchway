@@ -6,11 +6,11 @@ Stitchway is a puzzle game that works offline. The game itself collects no perso
 
 ## What stays on your device
 The app stores the following locally, and only on your device:
-- your settings (theme, sound, haptics, reduce motion, colour-blind palette),
+- your settings (fabric, sound, haptics, reduce motion, colour-blind palette),
 - your solved puzzles, times and daily streak,
 - a puzzle you left half-finished, so you can continue it,
 - whether you have removed ads, and a count of puzzles since the last full-screen ad,
-- your fabric choice and, if you turn it on, your daily reminder setting.
+- if you turn it on, your daily reminder setting.
 
 None of this is sent to us. Uninstalling the app deletes it. Android's own backup may copy app data to your Google account if device backup is on; that is controlled by your device settings.
 
